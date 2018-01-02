@@ -1,0 +1,2 @@
+# KiCadGerberFileFormat
+KiCadでプロットして出てくるデータの名前などをそろえてzipに固めるツール
