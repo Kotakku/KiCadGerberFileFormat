@@ -1,7 +1,6 @@
 d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\bin\Debug\KiCadGerberFileFormat.exe.config
 d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\bin\Debug\KiCadGerberFileFormat.exe
 d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\bin\Debug\KiCadGerberFileFormat.pdb
-d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\obj\Debug\KiCadGerberFileFormat.csprojResolveAssemblyReference.cache
 d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\obj\Debug\KiCadGerberFileFormat.Form1.resources
 d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\obj\Debug\KiCadGerberFileFormat.Properties.Resources.resources
 d:\Users\Owner\Documents\Visual Studio 2017\Projects\KiCadGerberFileFormat\KiCadGerberFileFormat\obj\Debug\KiCadGerberFileFormat.csproj.GenerateResource.Cache

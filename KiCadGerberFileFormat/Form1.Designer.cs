@@ -41,12 +41,15 @@
             // 
             // fileNameTextBox
             // 
+            this.fileNameTextBox.AllowDrop = true;
             this.fileNameTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.fileNameTextBox.Location = new System.Drawing.Point(12, 12);
             this.fileNameTextBox.Name = "fileNameTextBox";
             this.fileNameTextBox.Size = new System.Drawing.Size(435, 22);
             this.fileNameTextBox.TabIndex = 0;
+            this.fileNameTextBox.DragDrop += new System.Windows.Forms.DragEventHandler(this.fileNameTextBox_DragDrop);
+            this.fileNameTextBox.DragEnter += new System.Windows.Forms.DragEventHandler(this.fileNameTextBox_DragEnter);
             // 
             // statusStrip
             // 

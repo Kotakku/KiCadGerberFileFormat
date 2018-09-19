@@ -252,5 +252,17 @@ namespace KiCadGerberFileFormat
                 }
             }
         }
+
+        private void fileNameTextBox_DragEnter(object sender, DragEventArgs e)
+        {
+            if( ((string[])e.Data.GetData(DataFormats.FileDrop, false)).Length == 1 )
+                e.Effect = DragDropEffects.All;
+        }
+
+        private void fileNameTextBox_DragDrop(object sender, DragEventArgs e)
+        {
+            string[] fileName = (string[])e.Data.GetData(DataFormats.FileDrop, false);
+            fileNameTextBox.Text = fileName[0];
+        }
     }
 }
